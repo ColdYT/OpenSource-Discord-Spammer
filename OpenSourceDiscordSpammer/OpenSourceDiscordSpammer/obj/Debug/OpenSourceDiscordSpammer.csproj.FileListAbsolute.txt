@@ -1,0 +1,11 @@
+/Users/madsalbrektsen/Projects/OpenSourceDiscordSpammer/OpenSourceDiscordSpammer/bin/Debug/OpenSourceDiscordSpammer.exe
+/Users/madsalbrektsen/Projects/OpenSourceDiscordSpammer/OpenSourceDiscordSpammer/bin/Debug/OpenSourceDiscordSpammer.pdb
+/Users/madsalbrektsen/Projects/OpenSourceDiscordSpammer/OpenSourceDiscordSpammer/bin/Debug/Anarchy.dll
+/Users/madsalbrektsen/Projects/OpenSourceDiscordSpammer/OpenSourceDiscordSpammer/bin/Debug/Newtonsoft.Json.dll
+/Users/madsalbrektsen/Projects/OpenSourceDiscordSpammer/OpenSourceDiscordSpammer/bin/Debug/Newtonsoft.Json.Schema.dll
+/Users/madsalbrektsen/Projects/OpenSourceDiscordSpammer/OpenSourceDiscordSpammer/bin/Debug/Newtonsoft.Json.xml
+/Users/madsalbrektsen/Projects/OpenSourceDiscordSpammer/OpenSourceDiscordSpammer/bin/Debug/Newtonsoft.Json.Schema.xml
+/Users/madsalbrektsen/Projects/OpenSourceDiscordSpammer/OpenSourceDiscordSpammer/obj/Debug/OpenSourceDiscordSpammer.csprojAssemblyReference.cache
+/Users/madsalbrektsen/Projects/OpenSourceDiscordSpammer/OpenSourceDiscordSpammer/obj/Debug/OpenSourceDiscordSpammer.csproj.CopyComplete
+/Users/madsalbrektsen/Projects/OpenSourceDiscordSpammer/OpenSourceDiscordSpammer/obj/Debug/OpenSourceDiscordSpammer.exe
+/Users/madsalbrektsen/Projects/OpenSourceDiscordSpammer/OpenSourceDiscordSpammer/obj/Debug/OpenSourceDiscordSpammer.pdb
